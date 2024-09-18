@@ -61,6 +61,12 @@ body.environment {
     background-size: cover;
     background-attachment: fixed;
 }
+body.events {
+    background-image: url(media/events.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
 .wrapper {
     display: grid;
     grid-template-columns:
